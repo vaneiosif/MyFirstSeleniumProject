@@ -1,5 +1,3 @@
-
-
 package com.herokuapp;
 
 import org.openqa.selenium.By;
@@ -10,6 +8,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class Login {
+
     @Test
     public void loginTest(){
         //open page
@@ -52,8 +51,3 @@ public class Login {
 
 
 }
-
-
-
-
-
